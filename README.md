@@ -1,3 +1,4 @@
+![logo](https://github.com/MSulemanBhanbhro/MSulemanBhanbhro/blob/main/logo.jpg)
 <h1 align="center">Hi 👋, I'm M Suleman</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 <img align="right" alt5="Coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
