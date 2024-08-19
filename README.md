@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Suleman</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
-<img align="right" alt5="Coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2-lN53o0EwW29M_rvoS_HC&ust=1724150825556000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDS9r3wgIgDFQAAAAAdAAAAABAS">
+<img align="right" alt5="Coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msulemanbhanbhro&label=Profile%20views&color=0e75b6&style=flat" alt="msulemanbhanbhro" /> </p>
 
